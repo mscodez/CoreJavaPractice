@@ -14,3 +14,10 @@ class Hello{
 	
 	static int b;
 }
+
+class Customer{
+
+	public static mAdd(){
+		System.out.println("Hi");
+	}
+}
